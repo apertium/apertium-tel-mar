@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-tel-mar.mar-tel.lrx -text
+/apertium-tel-mar.mar-tel.t1x -text
+/apertium-tel-mar.mar-tel.t2x -text
+/apertium-tel-mar.mar-tel.t3x -text
+/apertium-tel-mar.tel-mar.dix -text
+/apertium-tel-mar.tel-mar.lrx -text
+/apertium-tel-mar.tel-mar.t1x -text
+/apertium-tel-mar.tel-mar.t2x -text
+/apertium-tel-mar.tel-mar.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
