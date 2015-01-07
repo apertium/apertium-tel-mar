@@ -6,13 +6,16 @@
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
     <sdef n="n"     c="Noun"/>
+    <sdef n="m"     c="Masculine"/>
+    <sdef n="f"     c="Feminine"/>
+    <sdef n="nt"    c="Neuter"/>
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
   </sdefs>
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/><s n="sg"/></l><r>house<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>कुत्रा<s n="n"/><s n="m"/></l><r>కుక్క<s n="n"/><s n="nt"/></r></p></e>
    </section>
 </dictionary>
 
