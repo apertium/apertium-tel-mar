@@ -15,7 +15,7 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>कुत्रा<s n="n"/><s n="m"/></l><r>కుక్క<s n="n"/><s n="nt"/></r></p></e>
+      <e><p><l>కుక్క<s n="n"/><s n="nt"/></l><r>कुत्रा<s n="n"/><s n="m"/></r></p></e>
    </section>
 </dictionary>
 
