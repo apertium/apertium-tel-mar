@@ -1,0 +1,10 @@
+{
+    "mar-tel": {
+        "input": "mar-tel-input.txt",
+        "mode": "mar-tel"
+    },
+    "tel-mar": {
+        "input": "tel-mar-input.txt",
+        "mode": "tel-mar"
+    }
+}
